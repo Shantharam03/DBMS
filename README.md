@@ -61,3 +61,37 @@ Amount as REAL should be greater than 0.
 DueDate as DATE should be greater than the InvoiceDate.
 OrderID as INTEGER should be a foreign key referencing Orders(OrderID).
 ```
+```
+# EXPERIMENT 3 : DML COMMANDS
+QUESTIONS
+
+Question 1
+Write a SQL statement to update the product_name as 'Grapefruit' whose product_id is 4 in the products table.
+
+Question 2
+Write a SQL query to reduce the reorder level by 30% where cost price is more than 50 and quantity in stock is less than 100 in the products table.
+
+Question 3
+Write a SQL query to Delete a Specific Surgery which was made on 28th Feb 2024.
+
+Question 4
+Write a SQL query to Delete customers from 'customer' table where 'GRADE' is not equal to 3.
+
+Question 5
+Write a query to fetch details of employees whose EmpLname ends with an alphabet ‘A’ and contains five alphabets.
+
+Question 6
+Write a SQL query to classify base in the Calculations table as 'Provided' if it is not NULL, otherwise 'Not Provided'.
+
+Question 7
+Write a SQL query to calculate the final price after applying both the discount and the tax. Return product_id, original_price, discount_percentage, tax_rate, and final_price.
+
+Question 8
+Create a report that shows the capitalized FirstName and capitalized LastName renamed as FirstName and Lastname respectively and EmployeeId from the employees table sorted by EmployeeId in descending order.
+
+Question 9
+Write a SQL statement to retrieve city(column name) of all customers from customers table without any repeats.
+
+Question 10
+Write a SQL statement to Double the salary for employees in department 20 who have a job_id ending with 'MAN'
+```
