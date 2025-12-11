@@ -53,10 +53,11 @@ dob as DATE
 
 Question 10
 Create a table named Invoices with the following constraints:
-```
+
 
 InvoiceID as INTEGER should be the primary key.
 InvoiceDate as DATE.
 Amount as REAL should be greater than 0.
 DueDate as DATE should be greater than the InvoiceDate.
 OrderID as INTEGER should be a foreign key referencing Orders(OrderID).
+```
