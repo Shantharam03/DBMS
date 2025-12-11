@@ -1,5 +1,6 @@
 # DBMS
 #Experiment 2: DDL Commands
+```
 QUESTIONS:
 Question 1
 Create a new table named item with the following specifications and constraints:
@@ -52,6 +53,7 @@ dob as DATE
 
 Question 10
 Create a table named Invoices with the following constraints:
+```
 
 InvoiceID as INTEGER should be the primary key.
 InvoiceDate as DATE.
